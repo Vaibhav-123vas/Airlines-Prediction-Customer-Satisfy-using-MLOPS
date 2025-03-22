@@ -1,0 +1,12 @@
+{
+    "git.ignoreLimitWarning": true,
+    "cSpell.words": [
+        "lightgbm",
+        "matplotlib",
+        "mlflow",
+        "numpy",
+        "pylint",
+        "scikit",
+        "setuptools"
+    ]
+}
